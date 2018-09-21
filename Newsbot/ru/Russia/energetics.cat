@@ -1,0 +1,25 @@
+name=Агентство нефтегазовой информации | start_url=http://angi.ru/rss/angi.xml
+name=Пронедра | start_url=https://pronedra.ru/feed
+name=Нефть и Капитал | start_url=https://oilcapital.ru/rss/
+name=Территория Нефтегаз | start_url=http://neftegas.info/news/
+name=Neftegaz.RU | start_url=https://neftegaz.ru/news/rss_yandex
+name=Нефтегазовая Вертикаль | start_url=http://www.ngv.ru/news/rss/
+name=Тэкноблог | start_url=https://teknoblog.ru/feed
+name=Страна Росатом | start_url=http://www.strana-rosatom.ru/feed/
+name=Energyland.info | start_url=http://energyland.info/news/rss
+name=Энергетика и промышленность | start_url=https://www.eprussia.ru/news/rss.php
+name=Нефть России | start_url=http://www.oilru.com/rss/news.rss
+name=Oil.Эксперт | start_url=http://www.oilexp.ru/category/news/feed/
+name=RenEn | start_url=http://renen.ru/feed/
+name=Energybase.ru | start_url=https://energybase.ru/news | links_filter=xpath://div[@id="news-list"]//header/a
+name=Рупек | start_url=http://rupec.ru/news/rss/
+name=UA Energy | start_url=http://uaenergy.com.ua/rss
+name=Официальный сайт ПАО Газпром | start_url=http://www.gazprom.ru/rss/
+name=Переток.ру | start_url=http://peretok.ru/rss/
+name=РосТепло.ru | start_url=http://www.rosteplo.ru/rss/rosteplonews.xml
+name=Официальный сайт НК Роснефть | start_url=https://www.rosneft.ru/press/news/rss/
+name=Официальный сайт ПАО Газпром нефть | start_url=http://www.gazprom-neft.ru/press-center/news/rss/
+name=ТАСС | start_url=http://tass.ru/rss/v2.xml?sections=NDYxNg%3D%3D
+name=РИА Новости | start_url=https://ria.ru/lenta/category_Toplivno_ehkonomicheskijj_kompleks/
+name=Прайм | start_url=https://1prime.ru/export/rss2/energy/index.xml
+name=RusCable.Ru | start_url=https://www.ruscable.ru/rss/news.rss

@@ -1,0 +1,35 @@
+name=Прайм | start_url=https://1prime.ru/export/rss2/index.xml
+name=Банки.ру | start_url=http://www.banki.ru/xml/news.rss
+name=Финмаркет | start_url=http://www.finmarket.ru/news/
+name=Вести Экономика | start_url=http://www.vestifinance.ru/yandex.xml
+name=Finanz.ru | start_url=http://www.finanz.ru/rss/novosti
+name=Финам | start_url=https://www.finam.ru/analysis/conews/rsspoint
+name=Cbonds | start_url=http://ru.cbonds.info/rss/channels/news/
+name=Сравни.ру | start_url=https://www.sravni.ru/rss/novosti/
+name=Bankir.Ru | start_url=http://bankir.ru/rss/news
+name=AK&M | start_url=http://www.akm.ru/rus/rss/rss2.0.xml
+name=ForkLog | start_url=https://forklog.com/feed/
+name=Investfunds | start_url=http://stocks.investfunds.ru/news/
+name=Zaim | start_url=https://zaim.com/news/novosti-rynka/
+name=INNOV.RU | start_url=http://www.innov.ru/news/all/
+name=RusBonds | start_url=http://rusbonds.ru/rss.asp
+name=БанкИнформСервис | start_url=https://bankinform.ru/news/rss/
+name=Банковское обозрение | start_url=https://bosfera.ru/rss.xml
+name=Финансовая газета | start_url=http://fingazeta.ru/finance/
+name=РБК | start_url=https://www.rbc.ru/money/ | links_filter=css:a.item__link.js-yandex-counter
+name=BankDirect.pro | start_url=https://bankdirect.pro/news/rss.php
+name=BankNN | start_url=http://www.banknn.ru/novosti
+name=Банки Воронежа | start_url=http://banki-vrn.ru/rss.xml
+name=Banks.expert | start_url=https://banks.expert/yandex-rss
+name=Finparty | start_url=http://feeds.feedburner.com/finpartyrss
+name=Insider.pro | start_url=https://ru.ihodl.com/feed/default/
+name=Ассоциация Российских Банков | start_url=https://arb.ru/rss/news/
+name=Официальный сайт ПФР | start_url=http://www.pfrf.ru/api/news/rss/~press_center
+name=PLUSworld.ru | start_url=https://www.plusworld.ru/feed/
+name=Rambler Finance News | start_url=https://finance.rambler.ru/rss/head/?limit=10
+name=Саминвестор | start_url=http://feeds.feedburner.com/Saminvestor
+name=РИА Новости | start_url=https://ria.ru/lenta/category_EHkonomika_biznes_i_finansy/
+name=ТАСС | start_url=http://tass.ru/rss/v2.xml?sections=NDYxNw%3D%3D
+name=Коммерсантъ | start_url=https://www.kommersant.ru/RSS/section-business.xml
+name=MFD.RU | start_url=http://mfd.ru/rss/news/handler.ashx
+name=Allbanks.ru | start_url=http://www.allbanks.ru/news/feed/

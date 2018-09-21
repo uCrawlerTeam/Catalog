@@ -1,0 +1,11 @@
+name=MEDdaily | start_url=http://meddaily.ru/rss
+name=МедикФорум | start_url=https://www.medikforum.ru/rss.xml
+name=Vademecum | start_url=https://vademec.ru/news/rss/
+name=ДокторПитер.ру | start_url=http://doctorpiter.ru/articles/
+name=Медвестник | start_url=https://medvestnik.ru/rss/news/
+name=Здоровье Mail.Ru | start_url=https://health.mail.ru/rss/
+name=Газета «Фармацевтический вестник» | start_url=https://pharmvestnik.ru/rss.xml
+name=MedPortal.ru | start_url=http://medportal.ru/news/rss/
+name=Медицинская Россия | start_url=https://medrussia.org/feed
+name=Remedium.ru | start_url=http://www.remedium.ru/news/all_rss.php | clean_url_args=False
+name=MedAboutMe | start_url=https://medaboutme.ru/rss/

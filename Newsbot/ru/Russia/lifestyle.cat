@@ -1,0 +1,25 @@
+name=Starhit | start_url=http://www.starhit.ru/rss/
+name=Forbes Woman | start_url=http://www.forbes.ru/forbes-woman
+name=Woman`s Day | start_url=http://www.wday.ru/mediarss_articles.xml
+name=ELLE.ru | start_url=https://www.elle.ru/rss/elle_ru/rss.xml
+name=Афиша Daily | start_url=https://daily.afisha.ru/rss/
+name=Teleprogramma.pro | start_url=https://teleprogramma.pro/feed/
+name=HELLO! Russia | start_url=http://ru.hellomagazine.com/rss/yandex.xml
+name=MAXIM Online | start_url=https://www.maximonline.ru/main.rss
+name=7Дней.ру | start_url=https://7days.ru/rss/all/
+name=Esquire | start_url=https://esquire.ru/out/feedburner.xml
+name=Woman.ru | start_url=http://www.woman.ru/rss/
+name=Сплетник | start_url=http://www.spletnik.ru/rss/main
+name=Cosmopolitan | start_url=https://www.cosmo.ru/news/all/
+name=Tatler | start_url=https://www.tatler.ru/news/
+name=PEOPLETALK | start_url=https://peopletalk.ru/rss/ | use_proxy=True
+name=Журнал OK! | start_url=http://www.ok-magazine.ru/rss/yandex.xml
+name=Леди Mail.Ru | start_url=https://lady.mail.ru/news/
+name=Psychologies.ru | start_url=http://www.psychologies.ru/news/rss/
+name=POPCAKE | start_url=https://popcake.tv/feed
+name=InterMedia | start_url=http://www.intermedia.ru/rss/
+name=SNCMedia.ru | start_url=http://www.sncmedia.ru/rss/
+name=WMJ.RU | start_url=https://www.wmj.ru/rss/
+name=WomanHit.ru | start_url=http://www.womanhit.ru/rss/index.xml
+name=BIMRU | start_url=https://bimru.ru/rss.xml
+name=Территория новостей | start_url=http://terrnews.com/rss.xml

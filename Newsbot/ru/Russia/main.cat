@@ -1,0 +1,105 @@
+name=РБК | start_url=http://static.feed.rbc.ru/rbc/logical/footer/news.rss
+name=Лента.ру | start_url=https://lenta.ru/rss
+name=Интерфакс | start_url=http://www.interfax.ru/rss.asp | full_text_selector=//article[@itemprop="articleBody"]/p//text()
+name=РИА Новости | start_url=https://ria.ru/lenta/
+name=ТАСС | start_url=http://tass.ru/rss/export/index.xml?feed=v2
+name=Московский комсомолец | start_url=http://www.mk.ru/rss/news/index.xml
+name=Комсомольская правда | start_url=https://www.kp.ru/
+name=Вести.ру | start_url=http://www.vesti.ru/vesti.rss
+name=Российская газета | start_url=https://rg.ru/xml/index.xml | forbidden_css_class=b-sidebar-left
+name=Газета.ру | start_url=https://www.gazeta.ru/export/rss/lastnews.xml
+name=Аргументы и Факты | start_url=http://www.aif.ru/rss/news.php
+name=LIFE | start_url=https://life.ru/xml/feed.xml
+name=РЕН ТВ | start_url=http://ren.tv/export/feed.xml
+name=НТВ | start_url=http://www.ntv.ru/novosti/
+name=Коммерсантъ | start_url=https://www.kommersant.ru/RSS/news.xml
+name=RT на русском | start_url=https://russian.rt.com/rss
+name=Известия | start_url=https://iz.ru/xml/rss/all.xml
+name=REGNUM | start_url=https://regnum.ru/rss/news
+name=ФАН | start_url=https://riafan.ru/feed
+name=Ведомости | start_url=https://www.vedomosti.ru/rss/news
+name=Эхо Москвы | start_url=https://echo.msk.ru/news.rss
+name=Meduza | start_url=https://meduza.io/rss/all
+name=5 канал | start_url=http://www.5-tv.ru/news/rss/
+name=Дождь | start_url=https://tvrain.ru/export/rss/all.xml
+name=Звезда | start_url=http://tvzvezda.ru/export/rss.xml
+name=Сноб | start_url=https://snob.ru/rss/all
+name=Царьград | start_url=https://tsargrad.tv/news
+name=ИноСМИ | start_url=https://inosmi.ru/
+name=Republic | start_url=https://republic.ru/export/all.xml
+name=НСН | start_url=http://nsn.fm/rss/
+name=МИР24 | start_url=https://mir24.tv/news/list/all
+name=EADaily | start_url=https://eadaily.com/ru/rss/index.xml
+name=Росбалт | start_url=http://www.rosbalt.ru/feed/
+name=Свободная Пресса | start_url=http://svpressa.ru/all/news/
+name=Новая газета | start_url=https://www.novayagazeta.ru/news
+name=ТВ Центр | start_url=http://www.tvc.ru/rss/dcmi
+name=RNS | start_url=https://rns.online/
+name=Военное обозрение | start_url=https://topwar.ru/rss.xml
+name=Взгляд | start_url=https://vz.ru/rss.xml | forbidden_css_class=_top-news
+name=Радио Свобода | start_url=https://www.svoboda.org/api/
+name=BFM.ru | start_url=https://www.bfm.ru/news.rss
+name=Нью Информ | start_url=https://newinform.com/feed
+name=ПолитЭксперт | start_url=https://politexpert.net/feed
+name=Фонтанка.ру | start_url=http://www.fontanka.ru/fontanka.rss
+name=NEWSru.com | start_url=http://rss.newsru.com/all_news/
+name=Народные новости | start_url=https://nation-news.ru/feed
+name=Парламентская газета | start_url=https://www.pnp.ru/rss/index.xml
+name=Говорит Москва | start_url=https://govoritmoskva.ru/news/
+name=Телеканал 360 | start_url=https://360tv.ru/rss/
+name=Собеседник.ру | start_url=https://sobesednik.ru/rss.xml
+name=Znak | start_url=https://www.znak.com/rss
+name=EG.RU | start_url=https://www.eg.ru/feed/
+name=Ридус | start_url=https://www.ridus.ru/rss/news
+name=Правда.ру | start_url=https://www.pravda.ru/export-news.xml
+name=ОТР | start_url=https://otr-online.ru/news/
+name=Российский Диалог | start_url=https://www.rusdialog.ru/all.rss
+name=Деловой Петербург | start_url=http://www.dp.ru/rss/
+name=Metro | start_url=https://www.metronews.ru/novosti/
+name=Телеканал Санкт-Петербург | start_url=https://topspb.tv/rss/
+name=Татар-информ | start_url=http://www.tatar-inform.ru/rss/
+name=Радио Маяк | start_url=https://radiomayak.ru/news/
+name=Общая Газета | start_url=http://og.ru/news
+name=Вечерняя Москва | start_url=http://vm.ru/rss/
+name=Голос Америки | start_url=https://www.golos-ameriki.ru/api/zkivremjvq
+name=Москва 24 | start_url=https://www.m24.ru/news/
+name=Главный региональный | start_url=https://www.glavny.tv/rss/ | full_text_selector=//div[@class="pane-content"]//p//text()
+name=Molnet.ru | start_url=https://www.molnet.ru/mos/xml/rss_news
+name=Электронная газета Век | start_url=https://wek.ru/rss.xml
+name=ФедералПресс | start_url=http://fedpress.ru/feed/rss
+name=Реальное время | start_url=https://realnoevremya.ru/news
+name=Аргументы Недели | start_url=http://argumenti.ru/news
+name=Газета Труд | start_url=http://www.trud.ru/news/
+name=The Moscow Post | start_url=http://www.moscow-post.com/export/moscow-post.rss
+name=Эксперт Online | start_url=http://expert.ru/doc-list/rss/
+name=Авторадио | start_url=http://www.avtoradio.ru/vardata/modules/rss/data/aradionews.rss | forbidden_css_class=page-shortnews
+name=Daily Storm | start_url=https://dailystorm.ru/media/rss.xml
+name=Инфореактор | start_url=https://inforeactor.ru/feed
+name=RuNews24.ru | start_url=http://runews24.ru/
+name=Экономика сегодня | start_url=https://rueconomics.ru/feed/
+name=Политика сегодня | start_url=https://polit.info/feed
+name=Накануне.RU | start_url=https://www.nakanune.ru/rss.php | forbidden_css_class=indent_block
+name=Politonline.ru | start_url=http://www.politonline.ru/rss/article.xml
+name=Юга.ру | start_url=https://www.yuga.ru/news.rss
+name=URA.RU | start_url=https://ura.news/rss
+name=INFOX.ru | start_url=https://www.infox.ru/
+name=Рамблер новости | start_url=https://news.rambler.ru/latest/
+name=RUPOSTERS | start_url=https://ruposters.ru/feed/
+name=Полит.ру | start_url=http://polit.ru/feeds/
+name=REGIONS.RU | start_url=http://regions.ru/export/main.xml
+name=Новые Известия | start_url=https://newizv.ru/rss/
+name=The New Times | start_url=https://newtimes.ru/rss/
+name=VistaNews.ru | start_url=https://vistanews.ru/rss.xml
+name=MR7.ru | start_url=http://mr7.ru/rss/
+name=Мойка 78 | start_url=https://moika78.ru/rss/
+name=Вечерний курьер | start_url=https://vk-smi.ru/rss.xml
+name=Новый День | start_url=https://newdaynews.ru/rss/
+name=НГС.Новости | start_url=http://news.ngs.ru/rss/
+name=Украина.ру | start_url=https://ukraina.ru/export/rubrics.xml
+name=Россия 1 | start_url=https://russia.tv/rss/news/
+name=Дни.ру | start_url=https://dni.ru/rss.xml
+name=Бизнес Online | start_url=https://www.business-gazeta.ru/rss.xml | forbidden_css_class=l-col_1
+name=Медиазона | start_url=https://zona.media/rss
+name=Утро.ру | start_url=https://utro.ru/news/
+name=Подмосковье сегодня | start_url=https://mosregtoday.ru/rss/
+name=Территория новостей | start_url=http://terrnews.com/rss.xml

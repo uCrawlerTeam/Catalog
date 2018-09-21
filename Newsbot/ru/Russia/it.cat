@@ -1,0 +1,43 @@
+name=vc.ru | start_url=https://vc.ru/rss/all
+name=TelecomDaily | start_url=http://www.tdaily.ru/news/all/feed
+name=Hi-Tech.Mail.Ru | start_url=https://hi-tech.mail.ru/rss/all/
+name=CNews | start_url=http://www.cnews.ru/inc/rss/news.xml
+name=Roem.ru | start_url=https://roem.ru/rss/roem-all-news.xml
+name=Content Review | start_url=http://www.content-review.com/news.rdf
+name=AppleInsider.ru | start_url=https://appleinsider.ru/feed
+name=Ferra.ru | start_url=https://www.ferra.ru/export/news-rss.xml
+name=Rusbase | start_url=https://rb.ru/feeds/all/
+name=3DNews | start_url=https://3dnews.ru/news/rss/ | forbidden_css_class=content-block
+name=ComNews | start_url=https://www.comnews.ru/taxonomy/term/6/all/feed
+name=Хайтек | start_url=https://hightech.fm/feed.rss
+name=Хабрахабр | start_url=https://habr.com/rss/best/
+name=Hi-News.ru | start_url=https://hi-news.ru/feed
+name=iPhones.ru | start_url=https://www.iphones.ru/feed
+name=4PDA | start_url=http://4pda.ru/feed/
+name=Securitylab.ru | start_url=https://www.securitylab.ru/_Services/Export/RSS/news/
+name=IXBT | start_url=https://www.ixbt.com/live/rss/
+name=CHIP | start_url=https://ichip.ru/feed
+name=Компьютерра | start_url=http://www.computerra.ru/feed/
+name=Anti-Malware.ru | start_url=https://www.anti-malware.ru/news1/feed
+name=ASTERA | start_url=http://www.astera.ru/feed/
+name=Хакер | start_url=https://xakep.ru/feed/
+name=Trashbox.ru | start_url=https://trashbox.ru/feed/news/
+name=Overclockers | start_url=https://overclockers.ru/rss/news.rss | title_selector=//h1//text()
+name=Geek-Nose | start_url=http://geek-nose.com/feed/
+name=gagadget.com | start_url=http://gagadget.com/rss/ | use_proxy=True
+name=Новости ИТ | start_url=http://www.novostiit.net/feed
+name=Tproger | start_url=https://tproger.ru/feed/
+name=24Gadget.Ru | start_url=http://24gadget.ru/rss.xml
+name=IT-Weekly | start_url=https://www.it-weekly.ru/it-news/it/
+name=Газета.ру | start_url=https://www.gazeta.ru/export/rss/tech_news.xml
+name=Computerworld.ru | start_url=https://www.computerworld.ru/rss
+name=CIO.RU | start_url=https://www.cio.ru/rss
+name=РИА Новости | start_url=https://ria.ru/technology/all.html
+name=RobotReview | start_url=https://robot-review.ru/feed
+name=rozetked.me | start_url=https://rozetked.me/rss/
+name=ZOOM | start_url=http://zoom.cnews.ru/news/
+name=KV.by | start_url=https://www.kv.by/kv-rss-news
+name=Минкомсвязь России | start_url=http://minsvyaz.ru/ru/subscription/rss/all/
+name=SAP Land | start_url=https://sapland.ru/rss/
+name=Блог Лаборатории Касперского | start_url=https://www.kaspersky.ru/blog/feed/
+name=Блог Яндекса | start_url=https://yandex.ru/blog/company/rss

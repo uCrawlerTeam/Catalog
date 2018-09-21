@@ -1,0 +1,17 @@
+name=РИА Недвижимость | start_url=https://realty.ria.ru/realty/export/rss2/index.xml
+name=IRN.RU | start_url=https://www.irn.ru/news/ | links_filter=/news/\d+\.html
+name=РБК Недвижимость | start_url=https://realty.rbc.ru/ | links_filter=css:a.item-realty_big__link
+name=Канонер | start_url=http://kanoner.com/feed/
+name=Tranio | start_url=https://tranio.ru/articles/
+name=Московская перспектива | start_url=https://www.mperspektiva.ru/rss/news/
+name=Prian.ru | start_url=http://prian.ru/rss/news_ru.xml
+name=БН.ру | start_url=https://gazeta.bn.ru/news/
+name=Всеметры | start_url=http://news.vsemetri.com/rss.xml
+name=NSP.RU | start_url=http://nsp.ru/rss/
+name=Карповка | start_url=http://karpovka.com/feed/
+name=Строительная газета | start_url=https://www.stroygaz.ru/rss/
+name=Kvadrat.ru | start_url=http://www.kvadrat.ru/rss/
+name=Архитектура России | start_url=https://archi.ru/rss.xml
+name=Ктостроит.ру | start_url=https://ktostroit.ru/rss.php
+name=Дом.Лента.ру | start_url=http://dom.lenta.ru/rss/news/
+name=Вести.ру Недвижимость | start_url=http://realty.vesti.ru/news

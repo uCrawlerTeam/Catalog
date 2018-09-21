@@ -1,0 +1,25 @@
+name=Р-Спорт | start_url=https://rsport.ria.ru/export/rss2/archive/index.xml
+name=СПОРТ-ЭКСПРЕСС | start_url=https://www.sport-express.ru/services/materials/news/se/
+name=Чемпионат.com | start_url=https://www.championat.com/rss/news/
+name=Советский спорт | start_url=https://www.sovsport.ru/news
+name=Матч ТВ | start_url=https://matchtv.ru/articles/rss
+name=Футбол России | start_url=https://www.rusfootball.info/rss.xml
+name=СПОРТ-ЭКСПРЕСС | start_url=http://www.sport-express.ru/services/materials/news/se/
+name=Спорт день за днем | start_url=https://www.sportsdaily.ru/news.rss
+name=Sports.ru | start_url=https://www.sports.ru/rss/all_news.xml
+name=Спорт FM | start_url=https://sportfm.ru/xml_output/yandex.php
+name=Sportbox.ru | start_url=https://news.sportbox.ru/taxonomy/term/7212/0/feed
+name=АСН «Тюменская Арена» | start_url=http://asnta.ru/rus/news
+name=Спорт уик-энд | start_url=http://sport-weekend.com/rss/news/
+name=РБК Спорт | start_url=http://static.feed.rbc.ru/rbc/logical/footer/sport_newsline.rss
+name=LiveSport.ru | start_url=https://www.livesport.ru/news/
+name=Еженедельник «Футбол» | start_url=https://www.ftbl.ru/feed/
+name=Soccer.ru | start_url=https://www.soccer.ru/rss.xml
+name=Евро-Футбол.Ру | start_url=http://www.euro-football.ru/category/rss/
+name=Бомбардир.ру | start_url=https://bombardir.ru/rss/yandex.xml
+name=Sport24.ru | start_url=https://sport24.ru/rss/news/
+name=AllBoxing.ru | start_url=http://allboxing.ru/atom.xml
+name=AllHockey.Ru | start_url=http://allhockey.ru/rss.xml
+name=ToFight.Ru | start_url=http://tofight.ru/feed
+name=Континентальная Хоккейная Лига | start_url=https://www.khl.ru/news/rss/
+name=Мир Формулы-1 | start_url=https://www.f1-world.ru/news/rssexp6.xml | clean_url_args=False | forbidden_css_class=news8
