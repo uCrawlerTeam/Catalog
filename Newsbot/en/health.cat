@@ -1,0 +1,20 @@
+name=Health %7C TechCrunch | start_url=https://techcrunch.com/health/feed/
+name=Health - The Verge | start_url=https://www.theverge.com/rss/health/index.xml
+name=Health News – the latest from Al Jazeera | start_url=https://www.aljazeera.com/topics/categories/health.html | links_filter=/news/\d+/\d+/.*html
+name=Wellbeing - The National | start_url=https://www.thenational.ae/lifestyle/wellbeing
+name=Reuters - Health | start_url=http://feeds.reuters.com/reuters/healthNews
+name=Newsweek - Health | start_url=https://www.newsweek.com/health
+name=CBC.ca - Health | start_url=https://www.cbc.ca/cmlink/rss-health
+name=Health Care - Axios | start_url=https://api.axios.com/feed/health-care/ | title_selector=(//article//h3//text())[1]
+name=Fox News Health | start_url=http://feeds.foxnews.com/foxnews/health
+name=Health - The New York Times | start_url=https://www.nytimes.com/section/health
+name=Health News - CNN | start_url=https://edition.cnn.com/health
+name=dnaindia - Latest Health News  | start_url=https://www.dnaindia.com/health?page=1
+name=thehindu - Health News | start_url=https://www.thehindu.com/sci-tech/health/
+name=Health: news and advice - Mirror Online | start_url=https://www.mirror.co.uk/lifestyle/health/
+name=Health %7C HuffPost | start_url=https://www.huffingtonpost.com/section/health
+name=Health and Science - The Washington Post | start_url=https://www.washingtonpost.com/national/health-science/
+name=Health & wellbeing %7C The Guardian | start_url=https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss
+name=Health - BBC | start_url=http://feeds.bbci.co.uk/news/health/rss.xml
+name=Time - Health | start_url=http://feeds.feedburner.com/time/healthland | cookie=euConsent=true
+name=Daily star - Health | start_url=https://www.thedailystar.net/health/rss.xml

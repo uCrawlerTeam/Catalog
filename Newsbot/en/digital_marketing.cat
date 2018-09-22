@@ -1,0 +1,18 @@
+name=toi | start_url=https://timesofindia.indiatimes.com/
+name=Digiday  | start_url=https://digiday.com/feed/
+name=TopRank Marketing | start_url=https://www.toprankmarketing.com/newsroom/feed/
+name=Digital Marketing – Irish Tech News | start_url=https://irishtechnews.ie/category/marketing/digital-marketing/feed/
+name=The Big Leap  | start_url=https://www.bigleap.com/feed/
+name=Target Internet | start_url=https://www.targetinternet.com/feed/
+name=Marketing Week | start_url=https://www.marketingweek.com/feed/ | use_proxy=True
+name=The Drum | start_url=http://www.thedrum.com/rss.xml
+name=CMO | start_url=https://www.cmo.com.au/rss/latest/
+name=Campaign live | start_url=http://www.campaignlive.co.uk/rss/latest
+name=Digital Marketing Magazine  | start_url=http://digitalmarketingmagazine.co.uk/rss/ | use_proxy=True
+name=Adage | start_url=http://adage.com/rss-channel?section_id=20&xml=atom
+name=Economictimes Indiatimes Marketing | start_url=https://economictimes.indiatimes.com/small-biz/rssfeeds/5575607.cms
+name=Marketing Dive | start_url=https://www.marketingdive.com/feeds/news/
+name=Marketing Land | start_url=http://feeds.marketingland.com/marketingday
+name=Digitalagencynetwork | start_url=https://digitalagencynetwork.com/feed/
+name=Entrepreneur - Digital Marketing News & Topics | start_url=https://www.entrepreneur.com/topic/digital-marketing.rss
+name=Marketing Tech News | start_url=https://www.marketingtechnews.net/feed/

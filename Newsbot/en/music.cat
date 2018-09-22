@@ -1,0 +1,34 @@
+name=Musicnewsglobal | start_url=https://www.musicnewsglobal.com/feed/
+name=EDM Nations | start_url=https://edmnations.com/category/news/
+name=247 HipHop News - FOR THE CULTURE | start_url=https://247hiphopnews.com/feed/
+name=Themusicsite | start_url=https://themusicsite.com/music-news/feed
+name=World Music Network | start_url=https://www.worldmusic.net/rss/news.xml | title_selector=//div[@class="article-title"]/h3//text()
+name=Jamaicansmusic | start_url=https://jamaicansmusic.com/rss/news
+name=Australian Music Careers Online - The Industry Ob | start_url=https://www.theindustryobserver.com.au/feed/
+name=Complete Music Update | start_url=http://www.completemusicupdate.com/feed/rss/
+name=Undertheradar | start_url=http://feeds.feedburner.com/undertheradarconznews | title_selector=//h1//text() | full_text_selector=//div[@class="article_text"]/p//text()
+name=Bluegrass News, Concerts, Album Reviews & More! - | start_url=https://bluegrasstoday.com/feed/
+name=Louderthanwar | start_url=https://louderthanwar.com/feed/
+name=UNCUT - The spiritual home of great rock music | start_url=https://www.uncut.co.uk/feed
+name=Relix Media | start_url=https://relix.com/category/news/feed/ | use_proxy=True
+name=musicbusinessworldwide | start_url=https://www.musicbusinessworldwide.com/rss
+name=musicfeeds | start_url=http://musicfeeds.com.au/feed/
+name=BreatheHeavy.com | start_url=https://www.breatheheavy.com/feed/ | use_proxy=True
+name=Digital Music News | start_url=https://www.digitalmusicnews.com/feed/
+name=jambase | start_url=https://www.jambase.com/feed
+name=Metalsucks | start_url=http://feeds.feedburner.com/Metalsucks
+name=FACT Magazine: Music News | start_url=http://www.factmag.com/feed/
+name=pigeonsandplanes | start_url=https://pigeonsandplanes.com/feeds/generator/e/n/3.rss | cookie=_evidon_consent_cookie={"consent_date":"2018-09-01T21:24:07.320Z"}
+name=News %7C SPIN | start_url=https://www.spin.com/news/feed/
+name=Blabbermouth.net | start_url=http://www.blabbermouth.net/feed.rss | forbidden_css_class=disclaimer
+name=NME | start_url=https://www.nme.com/news/music/feed
+name=music-news.com | start_url=http://www.music-news.com/rss/UK/news?includeCover=true
+name=TMZ | start_url=http://www.tmz.com/rss.xml
+name=Metalunderground | start_url=http://feeds.feedburner.com/metalunderground
+name=NEWS - EDM.com - The Latest Electronic Dance Musi | start_url=https://edm.com/.rss/full/news
+name=Ultimate Classic Rock | start_url=http://ultimateclassicrock.com/category/news/?source=desktopnav | cookie=gdpr_consent=YES
+name=Latest Hip Hop News - Hip Hop DX | start_url=https://hiphopdx.com/rss/news.xml
+name=EDM News On Your EDM  | start_url=https://www.youredm.com/news/feed/
+name=CMT Country News | start_url=http://www.cmt.com/news/
+name=Loudwire | start_url=http://loudwire.com/feed/ | cookie=gdpr_consent=YES; abgroup=A; blingblocksession=1;
+name=Music News %7C Billboard | start_url=https://www.billboard.com/news
