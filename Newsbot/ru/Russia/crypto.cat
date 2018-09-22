@@ -1,0 +1,70 @@
+name=bitnovelty.ru | start_url=http://bitnovelty.ru/feed | use_proxy=True
+name=gurutrade | start_url=http://www.gurutrade.ru/feeds/news/cryptocurrency/rss/
+name=hello-crypto.ru | start_url=https://hello-crypto.ru/feed/
+name=mycrypter.com | start_url=https://mycrypter.com/feed
+name=infox.ru | start_url=https://www.infox.ru/news/economy/digital | links_filter=economy/digital/(.+)
+name=toptokensales.com/ru/ | start_url=http://toptokensales.com/ru/feed
+name=mifo.io | start_url=https://mifo.io/rss/index/
+name=bitjournal.media | start_url=https://bitjournal.media/feed/ | use_proxy=True
+name=probitcoin.ru | start_url=http://probitcoin.ru/feed
+name=bitfin.info | start_url=https://bitfin.info/feed
+name=startupmagazine.ru/ | start_url=http://startupmagazine.ru/category/news/blockchain/feed
+name=rarib.ag | start_url=https://rarib.ag/news/ | links_filter=news/(.+)/(.+)html
+name=promining.net | start_url=https://promining.net/feed
+name=cryptowiki.ru | start_url=http://cryptowiki.ru/feed
+name=if24.ru/blockchain | start_url=https://www.if24.ru/blockchain/feed
+name=gornakov.com | start_url=http://www.gornakov.com/feed
+name=solarcoin.ru | start_url=http://solarcoin.ru/feed | use_proxy=True
+name=moneyinformer.ru | start_url=http://www.moneyinformer.ru/ | links_filter=kriptovalyuta/(.+) | use_proxy=True
+name=coinz.media | start_url=https://coinz.media/feed
+name=coinfox.ru | start_url=http://www.coinfox.ru | links_filter=novosti/(.+)
+name=bitcryptonews.ru | start_url=https://bitcryptonews.ru/news | links_filter=xpath://section[@id="news-listing"]/div[position() < 11]/div/a
+name=rbc | start_url=https://www.rbc.ru/crypto/ | links_filter=crypto/news/(.+)
+name=caprikoin | start_url=http://caprikoin.ru/feed
+name=cryptoconsulting.info | start_url=http://cryptoconsulting.info/ru/feed
+name=altcoin.info | start_url=https://altcoin.info/news/ | links_filter=xpath://div[@class="container"]//div[@class="row"]//div[@class="news-half"]/a
+name=crypto-mining.ru | start_url=https://crypto-mining.ru/rss.xml
+name=cryptonomica.info | start_url=http://cryptonomica.info/feed
+name=cryptonews.one | start_url=http://cryptonews.one/feed
+name=procrypto.network | start_url=http://procrypto.network/feed
+name=rb.ru/tag/crypto | start_url=https://rb.ru/tag/crypto/ | links_filter=xpath://div[@class="article-item col-lg-4 col-md-6 col-sm-6 col-xs-12"][position() < 10]//h3/a
+name=equity.today | start_url=https://equity.today/feed
+name=investfuture | start_url=https://investfuture.ru/crypto/news | links_filter=xpath://article//h3/a
+name=maining.info | start_url=https://maining.info/feed
+name=1ethereum | start_url=https://1ethereum.ru/category/news/ | links_filter=xpath://article[position() < 10]/div/a
+name=rucoin.net | start_url=https://rucoin.net/feed
+name=cryptanews | start_url=http://cryptanews.ru/ | links_filter=xpath://div[@class="posts-container"]//a[@itemprop="url"]
+name=cryptos.tv | start_url=https://cryptos.tv/feed
+name=cryptonovosti.com | start_url=http://cryptonovosti.com/novosti/ | links_filter=xpath://div[@class="col-lg-4 col-sm-6 col-md-4 col-xs-12"][position() < 10]/article//h2/a
+name=cryptochan.org | start_url=https://cryptochan.org/feed
+name=bitcoinnews.blog | start_url=https://bitcoinnews.blog/news | links_filter=css:#mainList div div a
+name=cryptobotanika.ru | start_url=https://cryptobotanika.ru/feed
+name=stock-maks | start_url=http://stock-maks.com/rss.xml
+name=coinlife.com | start_url=https://coinlife.com/feed
+name=cryptocurrency.tech | start_url=https://cryptocurrency.tech/feed
+name=ttrcoin.com | start_url=https://ttrcoin.com/article/novosti.12/ | links_filter=xpath://ul[@id="entries"]/article[position() < 10]//div[@class="subHeading"]/a
+name=mining-bitcoin | start_url=https://mining-bitcoin.ru/news | links_filter=xpath://div[@class="widget-post-list"]/a | cookie=beget=begetok
+name=coinspot | start_url=https://coinspot.io/feed
+name=insider.pro | start_url=https://ru.insider.pro/feed/default/
+name=bitgid.com | start_url=https://bitgid.com/feed
+name=cryptofeed | start_url=https://cryptofeed.ru/feed
+name=freedman.club | start_url=https://freedman.club/feed
+name=theblast.media | start_url=http://theblast.media/feed
+name=blockchainhouse.media | start_url=http://blockchainhouse.media/feed
+name=innov | start_url=http://www.innov.ru/news/economy/ | links_filter=/news/economy/(.+)
+name=dailybit | start_url=https://dailybit.io/feed
+name=investing | start_url=https://ru.investing.com/rss/news_301.rss
+name=hashtelegraph | start_url=https://hashtelegraph.com/feed
+name=2bitcoins | start_url=https://2bitcoins.ru/feed
+name=whattonews | start_url=http://whattonews.ru/feed
+name=jourtify | start_url=https://jourtify.com/feed
+name=profitgid | start_url=https://profitgid.ru/feed
+name=bloomchain | start_url=https://bloomchain.ru/feed
+name=newscryptocoin | start_url=http://newscryptocoin.com/feed
+name=coinduck | start_url=https://coinduck.ru/news/ | links_filter=xpath://li[@class="article-item"][position() < 11]//article/a
+name=bitnovosti | start_url=http://bitnovosti.com/feed/
+name=happycoin | start_url=https://happycoin.club/feed/ | use_proxy=True | cookie=Protected2=ee84c718d2e8c16c8ec0e3c01a160501
+name=bits.media | start_url=https://bits.media/news/ | links_filter=css:div.news-item a.news-name
+name=anycoin.news | start_url=https://anycoin.news/feed/ | use_proxy=True
+name=forklog.com | start_url=https://forklog.com/feed/
+name=pro-blockchain.com | start_url=https://pro-blockchain.com/feed
