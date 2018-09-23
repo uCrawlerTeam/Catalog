@@ -63,7 +63,7 @@ name=Общая Газета | start_url=http://og.ru/news
 name=Вечерняя Москва | start_url=http://vm.ru/rss/
 name=Голос Америки | start_url=https://www.golos-ameriki.ru/api/zkivremjvq
 name=Москва 24 | start_url=https://www.m24.ru/news/
-name=Главный региональный | start_url=https://www.glavny.tv/rss/ | full_text_selector=//div[@class="pane-content"]//p//text()
+name=Главный региональный | start_url=https://www.glavny.tv/rss/
 name=Molnet.ru | start_url=https://www.molnet.ru/mos/xml/rss_news
 name=Электронная газета Век | start_url=https://wek.ru/rss.xml
 name=ФедералПресс | start_url=http://fedpress.ru/feed/rss
