@@ -1,0 +1,6 @@
+name=www.thedrum.com | start_url=http://www.thedrum.com/rss.xml | use_proxy=True
+name=www.theguardian.com | start_url=https://www.theguardian.com/media/advertising/rss
+name=www.afaqs.com | start_url=http://www.afaqs.com/news/ | links_filter=css:ul.featured-news li a
+name=www.entrepreneur.com | start_url=https://www.entrepreneur.com/topic/advertising.rss
+name=www.exchange4media.com | start_url=https://www.exchange4media.com/ | links_filter=css:div.ot-article-big h6 a
+name=www.forbes.com | start_url=https://www.forbes.com/social-media/feed2/ | cookie=notice_gdpr_prefs=0,1,2:1a8b5228dd7ff0717196863a5d28ce6c; notice_preferences=2:1a8b5228dd7ff0717196863a5d28ce6c;
