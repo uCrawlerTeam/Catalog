@@ -4,3 +4,10 @@ name=www.afaqs.com | start_url=http://www.afaqs.com/news/ | links_filter=css:ul.
 name=www.entrepreneur.com | start_url=https://www.entrepreneur.com/topic/advertising.rss
 name=www.exchange4media.com | start_url=https://www.exchange4media.com/ | links_filter=css:div.ot-article-big h6 a
 name=www.forbes.com | start_url=https://www.forbes.com/social-media/feed2/ | cookie=notice_gdpr_prefs=0,1,2:1a8b5228dd7ff0717196863a5d28ce6c; notice_preferences=2:1a8b5228dd7ff0717196863a5d28ce6c;
+name=ReadWrite | start_url=https://readwrite.com/feed/ | use_proxy=True
+name=Pocket-lint | start_url=https://www.pocket-lint.com/rss/all.xml | use_proxy=True
+name=Propertyweek | start_url=https://www.propertyweek.com/450.rss | use_proxy=True
+name=EG | start_url=https://www.egi.co.uk/feed/ | use_proxy=True
+name=Burma News | start_url=https://www.bnionline.net/en/news | use_proxy=True
+name=politico.eu | start_url=https://www.politico.eu/feed/ | use_proxy=True
+name=HotHardware | start_url=https://hothardware.com/rss/news.aspx | use_proxy=True
