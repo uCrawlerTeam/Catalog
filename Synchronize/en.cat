@@ -11,3 +11,6 @@ name=EG | start_url=https://www.egi.co.uk/feed/ | use_proxy=True
 name=Burma News | start_url=https://www.bnionline.net/en/news | use_proxy=True
 name=politico.eu | start_url=https://www.politico.eu/feed/ | use_proxy=True
 name=HotHardware | start_url=https://hothardware.com/rss/news.aspx | use_proxy=True
+name=Morning Brew - Stories | start_url=https://www.morningbrew.com/stories/feed/ | use_proxy=True
+name=Drugstorenews | start_url=https://www.drugstorenews.com/feed/ | use_proxy=True
+name=Chainstoreage | start_url=https://www.chainstoreage.com/feed/ | use_proxy=True
