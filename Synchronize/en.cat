@@ -14,3 +14,11 @@ name=HotHardware | start_url=https://hothardware.com/rss/news.aspx | use_proxy=T
 name=Morning Brew - Stories | start_url=https://www.morningbrew.com/stories/feed/ | use_proxy=True
 name=Drugstorenews | start_url=https://www.drugstorenews.com/feed/ | use_proxy=True
 name=Chainstoreage | start_url=https://www.chainstoreage.com/feed/ | use_proxy=True
+name=motorsport | start_url=https://www.motorsport.com/rss/all/news/ | use_proxy=True
+name=dailymail | start_url=http://www.dailymail.co.uk/home/index.rss | full_text_selector=//div[@itemprop="articleBody"]/p//text()
+name=espncricinfo | start_url=http://www.espncricinfo.com/rss/content/story/feeds/0.xml
+name=The Korea Herald | start_url=http://www.koreaherald.com/rss_xml.php | clean_url_args=False | title_selector=//div[@class="newsInfo"]/p//text()
+name=The Reporter Ethiopia English | start_url=https://www.thereporterethiopia.com/news | links_filter=/article/(.*) | use_proxy=True
+name=The Citizen - Tanzania News  | start_url=http://www.thecitizen.co.tz/News/1840340-1840340-view-asFeed-7fo6ke/index.xml
+name=New Era Newspaper | start_url=https://neweralive.na/ | links_filter=xpath://article//h3/a
+name=allafrica | start_url=http://allafrica.com/tools/headlines/rdf/latest/headlines.rdf | use_proxy=True
