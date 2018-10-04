@@ -22,3 +22,5 @@ name=The Reporter Ethiopia English | start_url=https://www.thereporterethiopia.c
 name=The Citizen - Tanzania News  | start_url=http://www.thecitizen.co.tz/News/1840340-1840340-view-asFeed-7fo6ke/index.xml
 name=New Era Newspaper | start_url=https://neweralive.na/ | links_filter=xpath://article//h3/a
 name=allafrica | start_url=http://allafrica.com/tools/headlines/rdf/latest/headlines.rdf | use_proxy=True
+name=thenewsminute | start_url=https://thenewsminute.com/section/News | links_filter=css:div h3 a
+name=si | start_url=https://www.si.com/rss/si_topstories.rss | cookie=euConsent=true; euConsentId=c401762a-d571-4881-98d0-0e22cedae3c8;
