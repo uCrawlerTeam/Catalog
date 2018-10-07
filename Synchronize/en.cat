@@ -27,9 +27,12 @@ name=si | start_url=https://www.si.com/rss/si_topstories.rss | cookie=euConsent=
 name=india.com | start_url=https://www.india.com/feed/ | full_text_selector=//div[@class="articleBody"]/p//text()
 name=scoopwhoop | start_url=https://www.scoopwhoop.com/rss/ | title_selector=//p[@class="title"]//text()
 name=www.cricbuzz.com | start_url=https://www.cricbuzz.com/cricket-news/latest-news | links_filter=xpath://div//h2//a | full_text_selector=//section[@itemprop="articleBody"]/p//text()
-name=ew.com | start_url=https://ew.com/feed/ | use_proxy=True
+name=ew.com | start_url=https://ew.com/feed/ | cookie=euConsent=true; euConsentId=9872945e-eefa-4655-aa47-e36838c10096;
 name=www.eonline.com | start_url=https://www.eonline.com/news | links_filter=/news/\d+/.+
 name=www.celebretainment.com | start_url=https://www.celebretainment.com/ | links_filter=css:div h3 a | use_proxy=True
 name=bollywoodlife.com | start_url=https://www.bollywoodlife.com/news-gossip/ | links_filter=xpath://div//h3//a[@title] | full_text_selector=//div[@itemprop="articleBody"]/p//text()
 name=movietalkies.com | start_url=http://www.movietalkies.com/news/ | links_filter=xpath://div/h4/a | use_proxy=True
-name=https://www.reuters.com/ | start_url=http://feeds.reuters.com/reuters/topNews
+name=www.reuters.com | start_url=http://feeds.reuters.com/reuters/topNews
+name=uk.reuters.com | start_url=http://feeds.reuters.com/reuters/UKTopNews
+name=Burma News | start_url=https://www.bnionline.net/en/news | links_filter=/en/news/.+ | use_proxy=True
+name=www.bgr.in | start_url=https://www.bgr.in/feed/ | full_text_selector=//div[@itemprop="articleBody"]/p//text()
