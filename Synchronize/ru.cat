@@ -3,3 +3,7 @@ name=www.russia-on.ru | start_url=http://www.russia-on.ru/category/economics | l
 name=webeconomy.ru | start_url=http://webeconomy.ru/index.php?top_menu=main | links_filter=css:div.main_news div a | title_selector=//td[@id="header"]//text()
 name=e-disclosure | start_url=https://www.e-disclosure.ru/vse-novosti | links_filter=css:#newsList .listitem a | title_selector=//div[@class="title_white"]//text()
 name=bitnovelty.ru | start_url=https://bitnovelty.ru/feed/ | use_proxy=True
+name=Molnet.ru | start_url=https://www.molnet.ru/mos/xml/rss_news | full_text_selector=//div[contains(@class, "article-body")]/p//text()
+name=АСН «Тюменская Арена» | start_url=http://asnta.ru/rus/news | links_filter=/rus/news/\d+
+name=Forbes Woman | start_url=http://www.forbes.ru/forbes-woman | links_filter=/forbes-woman/\d+.+
+name=coinews.io | start_url=http://coinews.io/ru/ | links_filter=1-kripto/(.+) | use_proxy=True
