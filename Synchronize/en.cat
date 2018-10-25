@@ -37,3 +37,4 @@ name=uk.reuters.com | start_url=http://feeds.reuters.com/reuters/UKTopNews
 name=Burma News | start_url=https://www.bnionline.net/en/news | links_filter=/en/news/.+ | use_proxy=True
 name=www.bgr.in | start_url=https://www.bgr.in/feed/ | full_text_selector=//div[@itemprop="articleBody"]/p//text()
 name=www.asiaone.com | start_url=http://www.asiaone.com/asia | links_filter=/asia/.+
+name=ybfventures.com | start_url=https://ybfventures.com/news/ | links_filter=xpath://h2/a[@itemprop]
